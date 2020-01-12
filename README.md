@@ -24,4 +24,4 @@
 
 
 
-2. Instruction for running four CNV detection algorithms inside of docker image: DECoN, ExomeDepth, CNVKit and Breakseq2 
+2. Instruction for running four CNV detection algorithms inside of docker image: DECoN, ExomeDepth, CNVKit and Breakseq2
