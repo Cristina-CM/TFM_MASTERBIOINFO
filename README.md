@@ -20,7 +20,7 @@
     sudo docker run -v /path_to_local_data/:/home -it ubuntu:16.04
 
     
- This dockerfile will install CNVkit, DECoN and Breakseq with pysam y biopython dependences. R that is necessary to ExomeDepth and DECoN.
+  This dockerfile will install CNVkit, DECoN and Breakseq with pysam y biopython dependences. R that is necessary to ExomeDepth  and DECoN.
 
 
 
